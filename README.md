@@ -46,11 +46,8 @@
 
 📂 **Projects**
 
-- 🔷 **[Moneymate – Crowdfunding Web App Using Blockchain](https://github.com/Diksha666/moneymate)** – Blockchain-based crowdfunding platform  
-- 🔶 **[ATM Withdrawal System – Java](https://github.com/Diksha666/atm-withdrawal)** – Java-based ATM simulation  
-- 🔷 **[Time Cart – Python](https://github.com/Diksha666/time-cart)** – Time tracking & productivity tool  
-- 🔶 **[Algorithm Visualizer](https://github.com/Diksha666/algorithm-visualizer)** – Visualizing sorting algorithms  
-- 🔷 **[College Website Development](https://github.com/Diksha666/college-website)** – Responsive Django-based website for college  
+- 🔷 [Moneymate – Crowdfunding Web App Using Blockchain](https://github.com/Diksha666/moneymate) – Blockchain-based crowdfunding platform
+
 
 ---
 
