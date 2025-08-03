@@ -46,7 +46,11 @@
 
 📂 **Projects**
 
-- 🔷 [Moneymate – Crowdfunding Web App Using Blockchain](https://github.com/Diksha666/moneymate) – Blockchain-based crowdfunding platform
+- 🔷 [My College – Responsive Django-based Website for College](https://github.com/Diksha666/My-College) – Designed and developed a responsive college website using Python (Django), HTML, CSS, Bootstrap, and JavaScript with SQLite & MySQL databases.  
+- 🔷 **Moneymate – Crowdfunding Web App Using Blockchain** – Blockchain-based crowdfunding platform *(Repo coming soon)*  
+- 🔶 **ATM Withdrawal System – Java** – Java-based ATM simulation *(Repo coming soon)*  
+- 🔷 **Time Cart – Python** – Time tracking & productivity tool *(Repo coming soon)*  
+- 🔶 **Algorithm Visualizer** – Visualizing sorting algorithms *(Repo coming soon)*  
 
 
 ---
