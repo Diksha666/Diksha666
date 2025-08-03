@@ -45,12 +45,15 @@
 ---
 
 📂 **Projects**
+1. [My College – Responsive Django-based Website for College](https://github.com/Diksha666/My-College) – Designed and developed a responsive college website using Python (Django), HTML, CSS, Bootstrap, and JavaScript with SQLite & MySQL databases.  
 
-- 🔷 [My College – Responsive Django-based Website for College](https://github.com/Diksha666/My-College) – Designed and developed a responsive college website using Python (Django), HTML, CSS, Bootstrap, and JavaScript with SQLite & MySQL databases.  
-- 🔷 **Moneymate – Crowdfunding Web App Using Blockchain** – Blockchain-based crowdfunding platform *(Repo coming soon)*  
-- 🔶 **ATM Withdrawal System – Java** – Java-based ATM simulation *(Repo coming soon)*  
-- 🔷 **Time Cart – Python** – Time tracking & productivity tool *(Repo coming soon)*  
-- 🔶 **Algorithm Visualizer** – Visualizing sorting algorithms *(Repo coming soon)*  
+2. [TO-DO List – Task Management App](https://github.com/Diksha666/TO-DO-LIST) – A simple and interactive to-do list web application to manage daily tasks efficiently.  
+
+3. [Simple Calculator – JavaScript](https://github.com/Diksha666/Simple-Calculator) – A basic calculator built with HTML, CSS, and JavaScript for performing simple arithmetic operations.  
+
+4. [Automatic Generate Password – Python](https://github.com/Diksha666/Automatic-Generate-Password) – A Python-based password generator that creates secure and random passwords with custom length options.  
+
+
 
 
 ---
