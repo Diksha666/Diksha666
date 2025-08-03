@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Diksha Giri</h1>
+<h3 align="center">Aspiring Data Analyst | B.Tech in Computer Science Engineering | Python • SQL • Power BI</h3>
 
-<!--
-**Diksha666/Diksha666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diksha666&label=Profile%20views&color=0e75b6&style=flat" alt="Diksha666" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**
+
+- 🎓 B.Tech in Computer Science Engineering (2022–2025) | CGPA: 7.75  
+- 🎓 Diploma in Computer Science Engineering (2020–2022) | 81.56%  
+- 💻 Passionate about **Web Development & Data Analytics**  
+- 📊 Learning **Excel, SQL, Python for Data Analysis, Power BI, Statistics**  
+- 🛠️ Experienced in **Python (Django), HTML, CSS, Bootstrap, JavaScript**  
+- 🤝 Open to collaborations and always eager to learn new technologies
+
+---
+
+🛠️ **Tech Stack & Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi" />
+  <img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+</p>
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha666&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha666&layout=compact" />
+</p>
+
+---
+
+📂 **Projects**
+
+- 🔷 **[Moneymate – Crowdfunding Web App Using Blockchain](https://github.com/Diksha666/moneymate)** – Blockchain-based crowdfunding platform  
+- 🔶 **[ATM Withdrawal System – Java](https://github.com/Diksha666/atm-withdrawal)** – Java-based ATM simulation  
+- 🔷 **[Time Cart – Python](https://github.com/Diksha666/time-cart)** – Time tracking & productivity tool  
+- 🔶 **[Algorithm Visualizer](https://github.com/Diksha666/algorithm-visualizer)** – Visualizing sorting algorithms  
+- 🔷 **[College Website Development](https://github.com/Diksha666/college-website)** – Responsive Django-based website for college  
+
+---
+
+📜 **Certifications**
+
+- Deloitte Australia Data Analytics Job Simulation – Forage (2025)  
+- Data Analyst – PW Skills (Self-Learning)  
+
+---
+
+📫 **Connect with Me**
+
+- 📧 Email: **dikshagiri1401@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/diksha-giri-103958250](https://www.linkedin.com/in/diksha-giri-103958250)  
+- 🖥️ GitHub: [github.com/Diksha666](https://github.com/Diksha666)
+
+---
+
+💡 *"Data is the new oil – and I’m learning how to refine it."*
