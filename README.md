@@ -69,7 +69,8 @@
 
 - 📧 Email: **dikshagiri1401@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/diksha-giri-103958250](https://www.linkedin.com/in/diksha-giri-103958250)  
-- 🖥️ GitHub: [github.com/Diksha666](https://github.com/Diksha666)
+- 🖥️ Portfolio: [https://diksha666.github.io/Portfolio/]
+  
 
 ---
 
